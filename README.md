@@ -18,7 +18,7 @@ Several tutorials exist, for example [here](http://www.webdesignerdepot.com/2012
 
 Before converting the source SVG file, it needs to be edited manually and all the occurences of `&amp;#x` replaced with `&#x`.
 
-Conversion is then achieved online using first [freefontconverter](http://www.freefontconverter.com/) to convert the `svg` to `otf`.
+[freefontconverter](http://www.freefontconverter.com/) is then used to convert the `svg` to `otf`.
 
-[fontsquirrel](http://www.fontsquirrel.com/tools/webfont-generator) is then used in expert mode to set the subsetting to `E400-E414`.
+[fontsquirrel](http://www.fontsquirrel.com/tools/webfont-generator) is then used (in expert mode with subsetting set to `E400-E414`) to convert the `otf` to the other font formats.
 
