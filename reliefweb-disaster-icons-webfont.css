@@ -14,85 +14,106 @@
 
 .icon-CW:before,
 .icon-cold-wave:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E400';
 }
 .icon-DR:before,
 .icon-drought:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E401';
 }
 .icon-EQ:before,
 .icon-earthquake:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E402';
 }
 .icon-EP:before,
 .icon-epidemic:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E403';
 }
 .icon-EC:before,
 .icon-extratropical-cyclone:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E404';
 }
 .icon-FR:before,
 .icon-fire:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E405';
 }
 .icon-FF:before,
 .icon-flash-flood:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E406';
 }
 .icon-FL:before,
 .icon-flood:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E407';
 }
 .icon-HW:before,
 .icon-heat-wave:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E408';
 }
 .icon-IN:before,
 .icon-insect-infestation:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E409';
 }
 .icon-LS:before,
 .icon-land-slide:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E40A';
 }
 .icon-MS:before,
 .icon-mud-slide:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E40B';
 }
 .icon-OT:before,
 .icon-other:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E40C';
 }
 .icon-ST:before,
 .icon-severe-local-storm:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E40D';
 }
 .icon-AV:before,
 .icon-snow-avalanche:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E40E';
 }
 .icon-SS:before,
 .icon-storm-surge:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E40F';
 }
 .icon-AC:before,
 .icon-technological-disaster:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E410';
 }
 .icon-TC:before,
 .icon-tropical-cyclone:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E411';
 }
 .icon-TS:before,
 .icon-tsunami:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E412';
 }
 .icon-VO:before,
 .icon-volcano:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E413';
 }
 .icon-WF:before,
 .icon-wild-fire:before {
+  font-family: 'reliefweb_disaster_iconsRg';
   content: '\E414';
 }
