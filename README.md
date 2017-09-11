@@ -1,7 +1,7 @@
 ReliefWeb Disaster Icons
 ========================
 
-Vector fonts containing the disaster type icons used on [ReliefWeb](http://reliefweb.int).
+Vector fonts containing the disaster type icons used on [ReliefWeb](https://reliefweb.int).
 
 ### How to use
 
@@ -12,13 +12,13 @@ Vector fonts containing the disaster type icons used on [ReliefWeb](http://relie
 
 ### Generating the fonts
 
-The SVG source file has been created using [Inkscape](inkscape.org).
+The SVG source file has been created using [Inkscape](https://inkscape.org).
 
-Several tutorials exist, for example [here](http://www.webdesignerdepot.com/2012/01/how-to-make-your-own-icon-webfont/).
+Several tutorials exist, for example [here](https://www.webdesignerdepot.com/2012/01/how-to-make-your-own-icon-webfont/).
 
 Before converting the source SVG file, it needs to be edited manually and all the occurences of `&amp;#x` replaced with `&#x`.
 
 [freefontconverter](http://www.freefontconverter.com/) is then used to convert the `svg` to `otf`.
 
-[fontsquirrel](http://www.fontsquirrel.com/tools/webfont-generator) is then used (in expert mode with subsetting set to `E400-E414`) to convert the `otf` to the other font formats.
+[fontsquirrel](https://www.fontsquirrel.com/tools/webfont-generator) is then used (in expert mode with subsetting set to `E400-E414`) to convert the `otf` to the other font formats.
 
